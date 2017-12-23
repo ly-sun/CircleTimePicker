@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle_Picker">
+
+        <!--角度的周期-->
+        <attr name="Degree_Cycle" format="integer"/>
+        <!--开始时间的圆盘角度-->
+        <attr name="Start_Degree" format="float" />
+        <!--结束时间的圆盘角度-->
+        <attr name="End_Degree" format="float" />
+
+        <!--开始按钮的背景-->
+        <attr name="Start_Btn_Bg" format="reference" />
+        <!--结束按钮的背景-->
+        <attr name="End_Btn_Bg" format="reference" />
+        <!--时钟的背景图片-->
+        <attr name="Clock_Bg" format="reference" />
+        
+
+
+
+        <!--圆环进度条默认的背景色-->
+        <attr name="Ring_Default_Color" format="color" />
+        <!--开始按钮的颜色-->
+        <attr name="Start_Btn_Color" format="color" />
+        <!--结束按钮的颜色-->
+        <attr name="End_Btn_Color" format="color" />
+        <!--开始,结束按钮的宽度-->
+        <attr name="Btn_Width" format="integer" />
+        <!--开始结束按钮图片与按钮的offset-->
+        <attr name="Btn_Offset_Size" format="integer"/>
+    </declare-styleable>
+</resources>
