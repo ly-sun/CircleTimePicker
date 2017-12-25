@@ -535,6 +535,22 @@ public class CirclePicker extends View {
     }
 
     /**
+     * 设置初始化时间
+     *
+     * @param initStartDegree
+     * @param initEndDegree
+     */
+    public void setInitialTime(float initStartDegree, float initEndDegree) {
+        mStartDegree = (initStartDegree < 0) ? initStartDegree + mDegreeCycle : initStartDegree % mDegreeCycle;
+        mEndDegree = (initEndDegree < 0) ? initEndDegree + mDegreeCycle : initEndDegree % mDegreeCycle;
+        if (mOnTimeChangeListener != null) {
+            mOnTimeChangeListener.onTimeInitail(mStartDegree, mEndDegree);
+        }
+        refreshBtnPosition();
+    }
+
+
+    /**
      * 获取两坐标点的直线距离
      *
      * @param x1

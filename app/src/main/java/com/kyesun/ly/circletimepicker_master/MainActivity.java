@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         CirclePicker mTimer = (CirclePicker) findViewById(R.id.timer);
+        mTimer.setInitialTime(90, 180);
         mTvStartTime = (TextView) findViewById(R.id.start_time);
         mTvEndTime = (TextView) findViewById(R.id.end_time);
         mTimer.setOnTimerChangeListener(new OnCirclePickerTimeChangedListener() {

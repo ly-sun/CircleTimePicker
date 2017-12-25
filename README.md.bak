@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# CircleTimePicker
+这是一款仿IOS10(就寝功能)的圆盘时间选择器
+=======
 ## CircleTimePicker
 这是一款仿IOS10(就寝功能)圆盘时间选择器的自定义控件
 
@@ -65,4 +69,4 @@ Start_Btn_Color | 开始时间设置按钮的背景颜色
 End_Btn_Color |  结束时间设置按钮的背景颜色
 Btn_Width | 开始,结束设置时间按钮的直径
 Btn_Offset_Size | 开始,结束时间按钮背景图与背景颜色的间隔
-
+>>>>>>> README.md
