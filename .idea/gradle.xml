@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CircleTimePicker" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/circle_time_picker" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

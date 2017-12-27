@@ -2,21 +2,21 @@
 这是一款仿IOS10(就寝功能)圆盘时间选择器的自定义控件
 
 
-##项目演示
+## 项目演示
 <p align="center">
 	<img src = "/gifs/CircleTimePicker_01.gif" height="300">
 </p>
 
 
-##简单用例
+## 简单用例
 
 1.在 buld.gradle 中添加依赖
-
+compile 'com.kyesun.ly:CircleTimePicker:1.0.0'
 
 2.在XML布局文件中添加 CirclePicker
 
 ```xml
-    <com.kyesun.ly.circle_time_picker.widget.CirclePicker
+    <com.kyesun.ly.CircleTimePicker.widget.CirclePicker
         android:id="@+id/timer"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
@@ -50,7 +50,7 @@
         });
 ```
 
-##自定义属性
+## 自定义属性
 
 XML Attribute | description
 ------------ | -------------

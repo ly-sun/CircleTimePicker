@@ -37,7 +37,7 @@
             android:layout_weight="1"
             android:gravity="center" />
     </LinearLayout>
-    <com.kyesun.ly.circle_time_picker.widget.CirclePicker
+    <com.kyesun.ly.CircleTimePicker.widget.CirclePicker
         android:id="@+id/timer"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

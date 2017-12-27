@@ -1,1 +1,1 @@
-include ':app', ':circle_time_picker'
+include ':app', ':CircleTimePicker'
