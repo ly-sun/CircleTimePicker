@@ -11,8 +11,11 @@
 ## 简单用例
 
 1.在 buld.gradle 中添加依赖
-compile 'com.kyesun.ly:CircleTimePicker:1.0.0'
-
+```groovy
+dependencies {
+    compile 'com.kyesun.ly:CircleTimePicker:1.0.0'
+}
+```
 2.在XML布局文件中添加 CirclePicker
 
 ```xml
