@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.CircleTimePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.CircleTimePicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleTimePicker/CircleTimePicker.iml" filepath="$PROJECT_DIR$/CircleTimePicker/CircleTimePicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleTimePicker-master.iml" filepath="$PROJECT_DIR$/CircleTimePicker-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleTimePicker/CircleTimePicker.CircleTimePicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircleTimePicker.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
