@@ -1,8 +1,9 @@
 package com.kyesun.ly.circletimepicker_master;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.kyesun.ly.CircleTimePicker.callback.OnCirclePickerTimeChangedListener;
 import com.kyesun.ly.CircleTimePicker.widget.CirclePicker;
